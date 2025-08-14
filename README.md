@@ -30,6 +30,7 @@ Este proyecto es un ejemplo básico de un **endpoint en Spring Boot** que devuel
 
 ## 📷 Evidencia de ejecución
 *(Aquí puedes poner capturas de pantalla del endpoint funcionando)*
+<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/e87753b4-a3ec-409f-8f88-3dbbe196b1d8" />
 
 ---
 
