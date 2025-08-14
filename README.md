@@ -1,5 +1,4 @@
 # ase242s3_YancarlosHuacreCardenas_be
-# ASE242S3 - Yancarlos Huacre Cardenas - Backend
 
 Este proyecto es un ejemplo básico de un **endpoint en Spring Boot** que devuelve un mensaje "Hola Mundo".
 
